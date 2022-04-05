@@ -4,5 +4,8 @@ public class Creator {
     int yearCreated = 1995;
     System.out.println(name);
     System.out.println(yearCreated);
+    double androidShare = 81.7;
+    System.out.println(androidShare);
+    
 	}
 }
