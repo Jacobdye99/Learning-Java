@@ -3,6 +3,6 @@
 
 
 # Checklist
-- Install Fest
-- Hello World
+- Install Fest -Done
+- Hello World -Done
 - Continue Learning
