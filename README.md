@@ -2,7 +2,7 @@
 - Created this to learn Java
 
 
-#Checklist
+# Checklist
 -Install Fest - Done
 -Hello World - Done
 -Continue Learning
